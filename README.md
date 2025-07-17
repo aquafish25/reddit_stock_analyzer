@@ -50,4 +50,3 @@ Ever wondered if Reddit can predict stock market trends? This project dives into
 
 - Integrate with Twitter sentiment for broader social media trends  
 > Any ideas from your end are most welcome!
----
