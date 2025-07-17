@@ -37,6 +37,23 @@ Ever wondered if Reddit can predict stock market trends? This project dives into
    ```bash
    python stock_sentiment.py
    ```
+---
+
+### 📦 Requirements
+
+```bash
+praw==7.7.1
+pandas==2.1.0
+numpy==1.24.3
+scikit-learn==1.3.0
+nltk==3.8.1
+yfinance==0.2.28
+python-dotenv==1.0.0
+flask==2.3.3
+werkzeug==2.3.7
+matplotlib==3.7.1
+seaborn==0.12.2 
+```
 
 ---
 
