@@ -1,6 +1,6 @@
 # trenddit
 
-## 📈 Reddit Stock Sentiment Analyzer
+## Reddit Stock Sentiment Analyzer
 
 Ever wondered if Reddit can predict stock market trends? This project dives into the world of meme stocks, market hype, and real sentiment—analyzing what Redditors are saying and how it aligns with stock price movements. Built with natural language processing and a touch of financial curiosity, this tool aims to uncover patterns between social chatter and market behavior.
 
@@ -39,7 +39,7 @@ Ever wondered if Reddit can predict stock market trends? This project dives into
    ```
 ---
 
-### 📦 Requirements
+### Requirements
 
 ```bash
 praw==7.7.1
@@ -63,7 +63,7 @@ seaborn==0.12.2
 
 ---
 
-### 💡 Future Ideas
+### Future Ideas
 
 - Integrate with Twitter sentiment for broader social media trends  
 > Any ideas from your end are most welcome!
